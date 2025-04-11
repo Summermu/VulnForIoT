@@ -7,7 +7,7 @@
 * Product: Wavlink WL-WN530H4
 * Version: 20220801
 
-* Manufacturer's address： https://www.wavlink.com/en_us/firmware/details/45.html
+* Manufacturer's address： https://www.wavlink.com/en_us/product/WL-WN530H4.html
 * Firmware download address ：https://www.wavlink.com/en_us/firmware/details/45.html
 
 ### Vulnerability details
