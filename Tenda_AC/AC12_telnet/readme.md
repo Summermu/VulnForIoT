@@ -4,7 +4,7 @@
 
 * Vendor: Tenda
 
-* Product: Tenda AC12
+* Product: Tenda AC1206
 * Version:  V15.03.06.23
 
 * Manufacturer's address：https://www.tendacn.com/
@@ -12,7 +12,7 @@
 
 ### Vulnerability details
 
-An issue was discovered in Tenda AC12 V15.03.06.23. An HTTP request within the handler function of the /goform/telnet route. This could lead to Shell Metacharacters.![image](./img/1.png)
+An issue was discovered in Tenda AC1206 V15.03.06.23. An HTTP request within the handler function of the /goform/telnet route. This could lead to Shell Metacharacters.![image](./img/1.png)
 
 #### PoC
 
